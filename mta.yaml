@@ -1,4 +1,4 @@
-ID: openui5tmp
+ID: openui5
 _schema-version: '2.0'
 version: 0.0.1
 
@@ -6,18 +6,9 @@ modules:
  - name: worklist
    type: html5
    path: worklist
-
- 
-
-
- 
-
-
  - name: walkthrough
    type: html5
    path: walkthrough
-
-
  - name: navigation
    type: html5
    path: navigation
